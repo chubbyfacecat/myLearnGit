@@ -10,7 +10,7 @@
 @implementation chubbyfactCat
 
 - (void)chubbyfactcat {
-    NSLog(@"我是chubbyfactcat");
+    NSLog(@"我是chubbyfactcat, 我为天天啥想着跑路");
 }
 
 @end
